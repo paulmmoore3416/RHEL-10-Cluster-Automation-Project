@@ -1,7 +1,5 @@
 # RHEL 10 Cluster Automation Project
 
-# 🔧 RHEL 10 Four-Node Cluster Automation Project
-
 > **Author:** Paul Moore  
 > **Category:** Advanced Linux System Administration | Automation | Monitoring | CI/CD  
 > **Platform:** RHEL 10 | Ansible | Cockpit | Grafana  
