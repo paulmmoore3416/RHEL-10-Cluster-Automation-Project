@@ -1,4 +1,4 @@
-# Skills
+# RHEL 10 Cluster Automation Project
 
 # 🔧 RHEL 10 Four-Node Cluster Automation Project
 
